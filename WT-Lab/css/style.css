@@ -1,0 +1,5 @@
+
+:root { --brand: #0d6efd; }
+html, body { scroll-behavior: smooth; }
+.card { border-radius: 1rem; }
+img { object-fit: cover; }
